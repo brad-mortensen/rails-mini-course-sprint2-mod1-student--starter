@@ -109,3 +109,6 @@ Create an orders controller and implement the `index`, `create`, `show` and `shi
 3. The orders `show` action should get a specific order from the database
 4. The custom `ship` action should update the order status to `"shipped"` and render the order as JSON
 5. There should be no update or destroy actions
+
+
+Inits -- Brad Mortensen
